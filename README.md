@@ -1,10 +1,6 @@
                                                                   Hi 👋, I'm Reza Asgari
                                                                         devsecops
  
- 
- 
-                                                                Hi  I,m Reza Asgari
-                                                                      devsecops
                                                                       
  All of my projects are available at https://github.com/dockerdeploys1
 
